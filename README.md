@@ -16,7 +16,7 @@ A comprehensive MySQL database solution for managing library operations includin
 ## Database Schema
 
 ### Entity Relationship Diagram
-![ERD Diagram](https://via.placeholder.com/800x500.png?text=Library+ERD+Diagram)
+![ERD Diagram]([ttps://via.placeholder.com/800x500.png?text=Library+ERD+Diagram](https://lucid.app/lucidchart/0543c18e-16ab-46f4-b3fb-6947f1bf1ed8/edit?viewport_loc=-2313%2C-947%2C3784%2C1522%2C0_0&invitationId=inv_379d5111-45dd-4f95-a79c-8f49ca267c87)
 
 ### Tables
 | Table | Description |
